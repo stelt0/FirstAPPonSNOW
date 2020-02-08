@@ -1,3 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="todo" max_length="40" name="x_457140_myapp_todo" type="collection"/>
+    <element audit="true" extends="task" label="todo" max_length="40" name="x_457140_myapp_todo" type="collection">
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="New True/False" max_length="40" name="u_boolean_30" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_3" type="currency"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_5" type="data_structure"/>
+        <element label="New Decimal" max_length="15" name="u_decimal_8" type="decimal"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_9" type="due_date"/>
+        <element label="New Field Name" max_length="80" name="u_field_name_11" type="field_name"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_12" type="file_attachment"/>
+        <element label="New Floating Point Number" max_length="40" name="u_float_13" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_6" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date/Time" max_length="40" name="u_glide_date_time_7" type="glide_date_time"/>
+        <element label="New Duration" max_length="40" name="u_glide_duration_10" type="glide_duration"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_19" reference="task" type="glide_list"/>
+        <element label="New Time" max_length="40" name="u_glide_time_28" type="glide_time"/>
+        <element label="New HTML" max_length="65536" name="u_html_14" type="html"/>
+        <element label="New Icon" max_length="100" name="u_icon_15" type="icon"/>
+        <element label="New Integer" max_length="40" name="u_integer_16" type="integer"/>
+        <element label="New IP Address (Validated IPV4, IPV6)" max_length="40" name="u_ip_addr_17" type="ip_addr"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_18" type="journal"/>
+        <element label="New Long" max_length="40" name="u_longint_20" type="longint"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_23" type="price"/>
+        <element attributes="encode_utf8=false" label="New Reference" max_length="32" name="u_reference_23" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_21" type="simple_name_values"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_25" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String (Full UTF-8)" max_length="255" name="u_string_full_utf8_24" type="string_full_utf8"/>
+        <element attributes="base_start=true" label="New Table Name" max_length="80" name="u_table_name_26" type="table_name"/>
+        <element label="New Translated Text" max_length="40" name="u_translated_text_27" type="translated_text"/>
+        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_30" type="url"/>
+        <element attributes="is_multi_text=true,preview_first=true,preview_selector=true" label="New Wiki" max_length="65536" name="u_wiki_text_31" type="wiki_text"/>
+    </element>
 </database>

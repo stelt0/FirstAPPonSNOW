@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Formatters" section_id="e4f54e92077a40101448f48f7c1ed091" sys_domain="global" table="x_457140_myapp_todo" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>f4f64ed2077a40101448f48f7c1ed07b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>attached_knowledge</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>74f64ed2077a40101448f48f7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Attached Knowledge">cfa76e850a0a0b1f01446f67c8538d00</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>38f64ed2077a40101448f48f7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>f8f64ed2077a40101448f48f7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_crumbs</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>bcf64ed2077a40101448f48f7c1ed082</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Parent Breadcrumbs">a25ea5f8c0a80a6d3f3e5dde6317a3be</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sn_res_shaper_resolution_shaper.xml</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>70f64ed2077a40101448f48f7c1ed083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="ResolutionShaper">58dca524d77002004f1e82285e610309</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:27:04</sys_created_on>
+            <sys_id>b4f64ed2077a40101448f48f7c1ed083</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="Formatters" display_value="Formatters" name="x_457140_myapp_todo" sys_domain="global" view="Default view">e4f54e92077a40101448f48f7c1ed091</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:27:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Formatters</caption>
+            <header>false</header>
+            <name>x_457140_myapp_todo</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-08 13:22:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4f54e92077a40101448f48f7c1ed091</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Formatters</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="myApp" source="x_457140_myapp">e18cdd0e073a00101448f48f7c1ed093</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="myApp">e18cdd0e073a00101448f48f7c1ed093</sys_scope>
+            <sys_update_name>sys_ui_section_e4f54e92077a40101448f48f7c1ed091</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-08 13:22:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
